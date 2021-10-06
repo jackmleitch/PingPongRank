@@ -1,0 +1,4 @@
+notes/
+__pycache__/
+src/style.css
+google_creds_ignore.json
