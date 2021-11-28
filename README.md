@@ -1,6 +1,6 @@
 # Ping Pong Ranking System
 ## Project Overview
-* Created a ping pong ranking system for my friends and me to record all of our games.
+* Created a ping pong ranking system for me and my friends to record all of our games.
 * The ranking system is based on an altered version of the **ELO rating system** used in chess. 
 * All match data is stored in a cloud-based **SQL database** and it is queried using the **BigQuery** python API.
 * Built an **interactive app** for the rankings using Streamlit.
